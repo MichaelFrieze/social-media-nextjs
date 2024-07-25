@@ -13,10 +13,10 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | bugbook",
-    default: "bugbook",
+    template: "%s | social-media-nextjs",
+    default: "social-media-nextjs",
   },
-  description: "The social media app for powernerds",
+  description: "A social media app built with Next.js",
 };
 
 export default function RootLayout({
